@@ -253,7 +253,7 @@ categories 1 --- * study_logs
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/your-name/skilllog-api.git
+git clone https://github.com/sora1204/skilllog-api.git
 cd skilllog-api
 ```
 
