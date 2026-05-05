@@ -463,3 +463,10 @@ docker compose exec api pytest
 そのため、既存のPostgreSQLデータには影響しません。
 
 ---
+今後の改善
+- Alembicによるマイグレーション管理
+- GitHub Actionsによる自動テスト
+- Render / Railway などへのデプロイ
+- Reactフロントエンドの追加
+- 学習目標機能
+- 学習カレンダー機能
