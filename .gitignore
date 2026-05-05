@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+skilllog.db
+.pytest_cache/
+.DS_Store
